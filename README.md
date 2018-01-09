@@ -1,5 +1,5 @@
 # Python Artificial Intelligence Projects for Beginners [Video]
-This is the code repository for [Python Artificial Intelligence Projects for Beginners [Video]](https://www.packtpub.com/big-data-and-business-intelligence/python-artificial-intelligence-projects-beginners-video), published by Packt. It contains all the supporting project files necessary to work through the book from start to finish.
+This is the code repository for [Python Artificial Intelligence Projects for Beginners [Video]](https://www.packtpub.com/big-data-and-business-intelligence/python-artificial-intelligence-projects-beginners-video), published by Packt. It contains all the supporting project files necessary to work through the video course from start to finish.
 
 ## About the Video Course
 Artificial Intelligence (AI) is one of the hottest fields in computer science right now and has taken the world by storm as a major field of research and development. Python has surfaced as a dominate language in AI/ML programming because of its simplicity and flexibility, as well as its great support for open source libraries such as Scikit-learn and Keras.
