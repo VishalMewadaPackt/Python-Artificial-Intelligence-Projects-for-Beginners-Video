@@ -25,12 +25,6 @@ To fully benefit from the coverage included in this course, you will need:
 *	Prior working knowledge of Bash Shell and/or PowerShell
 
 
-### Exercise Files
-The exercise files in this course are:
-*	[Available on GitHub](https://github.com/brharr/azure-packt)
-*	Structured at a section level. At the end of each section a new set of exercises will be walked through.
-
-
 ### Technical Requirements
 This course has the following software requirements:
 *	Preferred editor [Visual Studio Code](https://code.visualstudio.com/)
