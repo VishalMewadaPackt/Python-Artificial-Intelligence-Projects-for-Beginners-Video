@@ -1,7 +1,7 @@
 # Python Artificial Intelligence Projects for Beginners [Video]
 This is the code repository for [Python Artificial Intelligence Projects for Beginners [Video]](https://www.packtpub.com/big-data-and-business-intelligence/python-artificial-intelligence-projects-beginners-video), published by Packt. It contains all the supporting project files necessary to work through the video course from start to finish.
 
-## About the Video Course / Course Summary
+## About the Video Course / Video Course Summary
 Artificial Intelligence (AI) is one of the hottest fields in computer science right now and has taken the world by storm as a major field of research and development. Python has surfaced as a dominate language in AI/ML programming because of its simplicity and flexibility, as well as its great support for open source libraries such as Scikit-learn and Keras.
 Built for rookie AI enthusiasts across eight realistic projects, this course covers modern techniques that make up the world of AI. You’ll start with your first project that covers decision trees for classifying data using Scikit-learn libraries. Next, you will build a classifier using random forests. Then you will learn about text processing techniques and practice with bag-of-words and word2vec models. Further, you will be introduced to deep learning and neural networks and practice with projects that make use of Keras and convolutional neural networks.
 
