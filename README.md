@@ -14,6 +14,9 @@ By the end of this video course, you will be confident to build your own AI proj
 * Apply deep learning on text and images
 * Extend pre-trained deep learning models
 
+## Instructions and Navigation
+
+
 ## Related Products
 
 * [Designing Machine Learning Systems with Python](https://www.packtpub.com/big-data-and-business-intelligence/designing-machine-learning-systems-python?utm_source=github&utm_medium=repository&utm_campaign=9781785882951)
